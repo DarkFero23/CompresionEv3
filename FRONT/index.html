@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Compresor y Descompresor LZ77</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Compresor y Descompresor Lempel-Ziv 77</h1>
+        
+        <div class="compress-section">
+            <h2>Compresión</h2>
+            <input type="file" id="file-input-compress" accept=".txt">
+            <button id="compress-btn">Comprimir</button>
+            <div id="compress-result"></div>
+        </div>
+        
+        <div class="decompress-section">
+            <h2>Descompresión</h2>
+            <input type="file" id="file-input-decompress" accept=".bin">
+            <button id="decompress-btn">Descomprimir</button>
+            <div id="decompress-result"></div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

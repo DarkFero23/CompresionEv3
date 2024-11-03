@@ -1,0 +1,36 @@
+¿Cómo se llama el costo asociado a la mala calidad del software?
+
+Coste CPSQ
+¿Qué tipo de costos son altos en el software?
+
+Fijos
+¿Qué se requiere para mantener el software?
+
+Mantenimiento
+¿Qué modelo se menciona para mejorar la calidad?
+
+Six Sigma
+¿Qué aspecto del software es más intangible?
+
+Complejidad
+¿Qué tipo de gestión se puede necesitar para calidad?
+
+Total Quality Management
+¿Qué se debe preguntar a nivel C-Suite?
+
+Costos
+¿Qué se utiliza para evaluar la calidad del software?
+
+ISO 25000
+¿Qué tipo de calidad se menciona relacionada con la apariencia?
+
+Estética
+¿Qué es necesario para lograr mejoras en calidad?
+
+Iteración
+¿Qué se debe ajustar para mejorar la calidad?
+
+Organización
+¿Quiénes son mencionados como líderes de pensamiento en ingeniería de software?
+
+Bill Curtis, Capers Jons
